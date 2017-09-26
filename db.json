@@ -1,0 +1,9 @@
+{
+  "calculate": [
+    { "depth": 1, "result": "1" },
+    { "depth": 2, "result": "2" },
+    { "depth": 3, "result": "3" },
+    { "depth": 4, "result": "4" },
+    { "depth": 5, "result": "5" }
+  ]
+}
